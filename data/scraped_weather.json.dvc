@@ -1,0 +1,6 @@
+outs:
+- md5: c4f5a2e6274a010e60d702c3119a61ba
+  size: 12400
+  isexec: true
+  hash: md5
+  path: scraped_weather.json
